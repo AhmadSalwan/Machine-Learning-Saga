@@ -1,0 +1,2 @@
+This model can be used for classifying an image to one of the 10 categories :
+class_names = ['Plane','Car','Bird','Cat','Deer','Dog','Frog','Horse','Ship','Truck']
